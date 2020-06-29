@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    heima
+    <h2>heima</h2>
+    <i class="toutiao toutiao-icon-test"></i>
     <router-view />
   </div>
 </template>

@@ -1,3 +1,7 @@
-body {
-  background-color: pink;
+.navbar-bgc {
+  background-color: #3296fa;
+}
+.navbar-bgc .van-nav-bar__title,
+.navbar-bgc .van-icon {
+  color: #fff;
 }

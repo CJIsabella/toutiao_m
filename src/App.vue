@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <h2>heima</h2>
-    <i class="toutiao toutiao-icon-test"></i>
     <router-view />
   </div>
 </template>
@@ -13,4 +11,9 @@ export default {
 </script>
 
 <style lang="less">
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
 </style>
